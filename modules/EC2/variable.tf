@@ -4,11 +4,6 @@ variable "identifier" {
   
 }
 
-variable "ami_id" {
-    type = string
-    default = "ami-08a52ddb321b32a8c"
-}
-
 variable "instance_type" {
     type = string
     default = "t2.micro"
