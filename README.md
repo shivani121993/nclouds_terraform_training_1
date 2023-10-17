@@ -1,1 +1,0 @@
-# nclouds_terraform_training_1
